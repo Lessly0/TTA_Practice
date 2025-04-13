@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-button{
+    background-color: #915aed;
+}
+.bg-btn-header{
+    background-color: #2f2545;
+}
+.bg-main{
+    background-image: url(./assets/images/10002.svg);
+}
+.bg-header{
+    background-color: #0e0627;
+}
+.bg-main-2{
+    background-color: #2f1c59;
+}
+.bg-landing-page{
+    background-image: url(./assets/images/10006.svg);
+}
+@media screen and (max-width: 768px) {
+    .components{
+        display: none;
+    }
+}
