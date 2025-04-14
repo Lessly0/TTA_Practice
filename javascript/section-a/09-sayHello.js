@@ -1,3 +1,4 @@
+//sayHello method
 const student = {
     name: "John",
     sayHello: function() {

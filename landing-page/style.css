@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
 }
+@font-face {
+    font-family: Plus-Jakart-Sans;
+    src: url(./assets/fonts/);
+}
+
 .bg-button{
     background-color: #915aed;
 }

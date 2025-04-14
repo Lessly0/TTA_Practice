@@ -1,3 +1,4 @@
+//filter method
 const numbers = [4, 12, 7, 20, 3];
 const filteredNumbers = numbers.filter(number => number > 10);
 

@@ -1,4 +1,5 @@
-const fruits = ['Apple', 'Banana', 'Cherry'];
+//fruits arrat
+const fruits = ['Apple', 'Banana', 'Mango'];
 
 fruits.forEach(fruit => {
     console.log(fruit);

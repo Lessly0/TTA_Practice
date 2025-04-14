@@ -1,3 +1,4 @@
+//multiplyArray function
 function multiplyArray(numbers) {
     return numbers.map(number => number * 2);
 }

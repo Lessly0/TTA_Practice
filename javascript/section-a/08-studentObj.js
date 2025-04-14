@@ -1,3 +1,4 @@
+//student object
 const student = {
     name: "John Doe",
     age: 20,
